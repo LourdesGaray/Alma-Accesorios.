@@ -1,0 +1,38 @@
+.Info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f0eb;  
+    flex-direction: row;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Info .texto p{
+    color: #333;
+    font-size: 1.2em;
+    line-height: 1.6;
+    max-width: 100%; 
+    margin-left: 100px;
+    
+}
+.texto{
+    margin-right: 150px;
+}
+.Info .texto h2{
+    color: #556045; 
+    font-size: 2.5em; 
+    font-weight: bold;
+    width: 80%;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+
+.Info .nosotros img {
+    width: 550px; 
+    margin-right: 110px;
+    border-radius: 50%;
+    
+}
+
